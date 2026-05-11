@@ -1,25 +1,21 @@
-# Keith Oruwari Portfolio
+Keith Oruwari Portfolio
 
-Personal portfolio website showcasing projects, technical skills, and development work.
+This is my personal portfolio website built to showcase some of my projects, experience, and interests in software development and design.
 
-## Tech Stack
-
+Built With
 * HTML
 * CSS
 * JavaScript
 
-## Features
-
-* Responsive design
-* Custom cursor animations
-* Cinematic dark UI
-* Projects showcase
+Features
+* Responsive layout
+* Custom cursor effects
+* Dark themed UI
+* Projects page
 * Resume integration
 
-## Live Site
+Deployment
+Hosted with Vercel.
 
-Deployed with Vercel.
-
-## Author
-
+Author
 Keith Oruwari
